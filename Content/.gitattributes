@@ -1,0 +1,2 @@
+MetaHumans/Common/Face/Face_Archetype.uasset filter=lfs diff=lfs merge=lfs -text
+MetaHumans/James/Face/James_FaceMesh.uasset filter=lfs diff=lfs merge=lfs -text
